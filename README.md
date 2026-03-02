@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SUBRAT PRADHAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Python,MySQL**
+- 💬 Ask me about **Python,MySQL,Django**
 
 - 📫 How to reach me **subratkanha354@gmail.com**
 
