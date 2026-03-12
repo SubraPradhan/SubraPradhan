@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **subratkanha354@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cw4ugodFM8Z-Xiu5QDry2Ao0ZIeh4400/view?usp=drive_link](https://drive.google.com/file/d/1cw4ugodFM8Z-Xiu5QDry2Ao0ZIeh4400/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1o7zkjShgQy--_gqDvNvpl6PJ3lWW2ieJ/view?usp=sharing]
 
 - ⚡ Fun fact **I think i'am a chill Guy**
 
