@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SUBRAT PRADHAN</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Python,MySQL,Django**
+- 💬 Ask me about **Python,MySQL,Django,React JS,TailwindCss4**
 
 - 📫 How to reach me **subratkanha354@gmail.com**
 
