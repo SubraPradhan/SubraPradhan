@@ -1,6 +1,7 @@
 # Hi, I'm Subrat Pradhan 👋
 
 🚀 Full Stack Developer focused on building real-world web applications
+
 💻 React | Next.js | Django | PostgreSQL | Python | 
 
 ---
