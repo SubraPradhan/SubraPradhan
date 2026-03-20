@@ -29,7 +29,7 @@
 
 ## 🛠 Tech Stack
 
-* Frontend: React, Tailwind CSS
+* Frontend: React, Tailwind CSS,HTML
 * Backend: Next.js, Django
 * Database: PostgreSQL, MySQL
 
